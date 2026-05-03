@@ -49,9 +49,6 @@
 </ul>
 <hr>
 
-<hr>
 
-✨ <b>Fun Fact</b><br>
-🎯 I like building things that actually work in real life — especially when I take a messy idea and slowly turn it into something clean, useful, and functional through code.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
