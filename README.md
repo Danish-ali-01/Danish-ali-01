@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br>💻 Full-Stack MERN Developer focused on building real-world web applications<br>🧠 Passionate about backend logic, APIs, and how systems work<br>🤖 Interested in integrating AI into web applications<br>🔨 Enjoy learning by building practical projects instead of only theory<br>🌐 Experienced in creating full-stack apps using MongoDB, Express, React, and Node.js<br>⚡ Worked on real-time applications using Socket.io<br>🐞 Improving problem-solving and debugging skills step by step<br>📚 Fast learner with a strong focus on continuous self-improvement<br>🚀 Motivated to grow as a software engineer and build production-level projects
+ Full-Stack MERN Developer focused on building real-world web applications<br>🧠 Passionate about backend logic, APIs, and how systems work<br>🤖 Interested in integrating AI into web applications<br>🔨 Enjoy learning by building practical projects instead of only theory<br>🌐 Experienced in creating full-stack apps using MongoDB, Express, React, and Node.js<br>⚡ Worked on real-time applications using Socket.io<br>🐞 Improving problem-solving and debugging skills step by step<br>📚 Fast learner with a strong focus on continuous self-improvement<br>🚀 Motivated to grow as a software engineer and build production-level projects
 
 
 ## 🌐 Socials:
