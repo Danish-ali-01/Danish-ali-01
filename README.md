@@ -16,6 +16,31 @@
 [![](https://komarev.com/ghpvc/?username=Danish-ali-01&icon=0&color=0)](https://visitcount.itsvg.in)
 <hr></hr>
 
-projects<br><br>Projects <br><br>🚀 AI Code Review Assistant<br>Developed an AI-powered web application that analyzes code and provides intelligent suggestions for improvement<br>Integrated Google Gemini AI API to detect issues, improve code quality, and enhance readability<br>Built backend logic using Node.js and Express for handling AI requests and responses<br>Focused on improving user experience by formatting AI-generated feedback in a clean and readable way<br>Gained experience in API integration, backend debugging, and handling asynchronous responses<br>🎯 MERN Stack Quiz Application<br>Built a full-stack quiz platform using MongoDB, Express, React, and Node.js<br>Implemented features like quiz creation, score tracking, and user authentication<br>Designed responsive frontend interfaces for smooth user interaction<br>Developed backend APIs for managing quizzes and user data efficiently<br>Improved skills in authentication flow, database management, and frontend-backend integration<br>💬 Real-Time Chat Application (MERN + Socket.io)<br>Developed a real-time chat application using MERN stack with Socket.io for instant messaging<br>Implemented one-to-one messaging with live updates and online/offline user status<br>Designed backend architecture for handling real-time socket connections and message storage<br>Worked on smooth UI experience with instant message delivery and synchronization<br>Solved challenges related to real-time data flow and socket connection stability
+<h2>Projects</h2>
+<br>
+
+<b>🚀 AI Code Review Assistant</b><br>
+Developed an AI-powered web application that analyzes code and provides intelligent suggestions for improvement.<br>
+Integrated Google Gemini AI API to detect issues, improve code quality, and enhance readability.<br>
+Built backend logic using Node.js and Express for handling AI requests and responses.<br>
+Focused on improving user experience by formatting AI-generated feedback in a clean and readable way.<br>
+Gained experience in API integration, backend debugging, and handling asynchronous responses.<br>
+<hr>
+
+<b>🎯 MERN Stack Quiz Application</b><br>
+Built a full-stack quiz platform using MongoDB, Express, React, and Node.js.<br>
+Implemented features like quiz creation, score tracking, and user authentication.<br>
+Designed responsive frontend interfaces for smooth user interaction.<br>
+Developed backend APIs for managing quizzes and user data efficiently.<br>
+Improved skills in authentication flow, database management, and frontend-backend integration.<br>
+<hr>
+
+<b>💬 Real-Time Chat Application (MERN + Socket.io)</b><br>
+Developed a real-time chat application using MERN stack with Socket.io for instant messaging.<br>
+Implemented one-to-one messaging with live updates and online/offline user status.<br>
+Designed backend architecture for handling real-time socket connections and message storage.<br>
+Worked on smooth UI experience with instant message delivery and synchronization.<br>
+Solved challenges related to real-time data flow and socket connection stability.<br>
+<hr>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
